@@ -1,1 +1,1 @@
-#具有root权限的recovery
+# 具有root权限的recovery
